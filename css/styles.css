@@ -1,0 +1,151 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: monospace;
+	margin: 0px;
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 5em;
+	font-weight: bold;
+	border: 3px solid black;
+	margin-bottom: 0px;
+}
+
+.navbar-brand {
+	font-size: 1.6em;
+}
+
+nav {
+	border: 1px solid black;
+}
+
+.nav-item {
+	font-size: 1.1em;
+}
+
+.nav-item:hover {
+	background-color: #F4D3C2;
+}
+
+#bgeffect {
+	max-width: 100%;
+	height: 100%;
+	border: 1px solid black;
+}
+
+.always {
+	
+	background-image: url("https://wallpaperaccess.com/full/318714.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active1 { 
+	background-image: url("https://i.pinimg.com/originals/4d/e2/88/4de2887b88d212c73b9df57d088a285b.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active2 { 
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/61mjo-FoDWL._SL1300_.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active3 { 
+	background-image: url("https://assets.awwwards.com/awards/images/2019/05/50-fashion-cover3op-comp.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active4 { 
+	background-image: url("https://eventlocker.s3.amazonaws.com/Producer-Event-Demo--Wine-and-Food-Fest_20__1444253456__demofoodandwine.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active5 { 
+	background-image: url("https://renaissanceinnovator.files.wordpress.com/2011/04/fast-fashion.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active6 { 
+	background-image: url("https://wallpaperaccess.com/full/127026.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active7 { 
+	background-image: url("https://media.allure.com/photos/57f7fc8ddd69c3d313b3e77e/16:9/w_2560%2Cc_limit/fishnet%252520tights%2525201.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active8 { 
+	background-image: url("https://industrywired.com/wp-content/uploads/2020/09/business.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active9 { 
+	background-image: url("https://i.pinimg.com/originals/01/31/e1/0131e19cecff33c71add038879b15947.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
+.active10 { 
+	background-image: url("https://cdn.wallpaper.com/main/styles/responsive_1460w_scale/s3/vr_kunsthal18_int_0753_embed-.jpg?itok=JMWtR30Q");
+	background-repeat: no-repeat;
+	background-position: center;
+	position:fixed;
+	padding: auto;
+  	width: 100%;
+  	height: auto;
+}
+
